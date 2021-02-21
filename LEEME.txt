@@ -1,0 +1,20 @@
+Para ejecutar el programa ("La Historia del atomo.html") necesita un navegador con soporte de javascript , HTML5 y CSS3.
+
+Ejecutese en un ordenador.
+
+No se ejecutara correctamente si no tiene connexion a internet.
+
+Si falla al ejecutarse póngase en contacto con su asistente ofimática mas cercano.
+
+Al ejecutar o redistribuir el programa usted acepta la licencia que puede revisar en LICENCIA.txt en esta misma carpeta 
+
+2021-Hyzca Developers Collaborative©
+
+IFID: 92B5A213-D9FD-42B9-B347-896EC52829E2
+
+Programado y diseñado con aprecio, esfuerzo y dedicacion para la profesora Diana Angelica Varela Martinez , EAN , Quimica General
+
+
+
+
+si su MD5 no concide probalemente haya sufrido un ciber ataque. cunsulte con su acesor de sistemas lo antes posible!!
