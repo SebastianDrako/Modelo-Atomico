@@ -2,7 +2,7 @@ Para ejecutar el programa ("La Historia del atomo.html") necesita un navegador c
 
 Ejecutese en un ordenador.
 
-No se ejecutara correctamente si no tiene connexion a internet.
+No se ejecutara correctamente si no tiene connexion a internet.Cuidado
 
 Si falla al ejecutarse póngase en contacto con su asistente ofimática mas cercano.
 
